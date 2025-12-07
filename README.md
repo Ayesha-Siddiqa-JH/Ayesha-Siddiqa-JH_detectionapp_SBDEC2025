@@ -6,7 +6,8 @@ A comprehensive Streamlit web application for detecting and analyzing heritage s
 
 Watch the full demonstration of the AI Heritage Detection App:
 
-👉 **Click here to view the Project Demo Video (https://github.com/Ayesha-Siddiqa-JH/Ayesha-Siddiqa-JH_detectionapp_SBDEC2025/releases/download/v1.0/Project.Demo.Video.mp4)**
+👉 **Click here to view the Project Demo Video 
+https://github.com/Ayesha-Siddiqa-JH/Ayesha-Siddiqa-JH_detectionapp_SBDEC2025/releases/download/v1.0/Project.Demo.Video.mp4**
 
 ## 🌟 Features
 
